@@ -1,0 +1,51 @@
+html{
+    background-image:url(giftly.png)
+    
+}
+
+body{
+    width:700px;
+    padding:50px;
+    margin-top:50px;
+    margin-left:inherit;
+    margin-right:inherit;
+       }
+
+body{
+     text-align:center;
+     font-family:fantasy,cursive,sans-serif;
+        }
+
+body{
+    border:4px solid #000;
+    background-color:#C1761C;
+        }
+
+a{
+    font-size:12pt;
+    color:#686143;
+    text-decoration:none;
+        }
+
+a:hover{
+    color:#ffb3d9;
+      }
+
+h1{
+    font-size:36pt;
+    color:#000;
+    border-top:2px dotted #b35900;
+    border-bottom:2px dotted #686143;
+    text-transform:lowercase;
+      }
+
+p{
+   font-size:12pt;
+    line-height:14pt;
+     }
+
+img{
+    border:medium solid #666;
+    box-shadow:5px 5px 5px rgba(0,0,0,3);
+    
+}
